@@ -16,7 +16,7 @@ Durch das umstrittene “Netzwerkdurchsetzungsgesetz”, welches am 30. Juni 201
 
 ...
 
-## Flächendenkender Breitbandausbau
+### Flächendenkender Breitbandausbau
 
 Der Zugang zum Internet mit hohen Datenübertragungsraten (Breitband) ist in Deutschland nicht flächendeckend gewährleistet. Tatsächlich gilt Deutschland sogar als “Entwicklungsland” wenn es um den breitbandausbau geht. Besonders gefördert werden muss hierzulande der Glasfaserausbau.
 
