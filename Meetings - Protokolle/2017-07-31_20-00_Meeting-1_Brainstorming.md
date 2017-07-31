@@ -7,14 +7,13 @@ hat sich ergeben dass wir uns Heute am 31.07 um 20:00 im Discord einfinden solle
 
 Axel (Protokollführer),
 5yn74x,
--CGN1948-,
+CGN1948,
 matt1337,
 mocola,
 RnB,
 Shuya,
 Zhorky,
-ExNought,
-A L E X
+ExNought
 
 ## Tagesordnung
 
@@ -22,7 +21,7 @@ A L E X
 1. Definierung der Arbeitsweise der AG
 1. Besprechung der aktuellen Programmpunkte
 1. Besprechung der Programmpunkte aus dem Github
-1. Brainstorming -> Übernahme der Vorschläge ins Giithub Issue-Board zur weiteren Diskussion und Ausarbeitung
+1. Brainstorming -> Übernahme der Vorschläge ins Github Issue-Board zur weiteren Diskussion und Ausarbeitung
 
 ***
 ## Ergebnisse
@@ -37,14 +36,14 @@ A L E X
    In der Telegramgruppe wird zudem der Link zur Terminabstimmung bekanntgegeben.
    
 #### 3. Besprechung der aktuellen Programmpunkte
-##### Zenusur im Internet
+##### Netzneutralität
 * Der Begriff ist zu Allumfassend und sollte weiter aufgegliedert werden:
 *Aufgliederung:*
     - Zwei-Klassen-Internet
     - Breitbandausbau
     - mobiles Internet (Datentarife)
 
-###### Ausarbeitung: `Zhorky & 5yn74x`
+###### Ausarbeitung: `mocola & 5yn74x`
 ##### Bundestrojaner
 * Bundestrojaner ist zu mächtig, die Beschränkungen müssen geprüft werden
 * Vorraussetzungen für einen Einsatz sind zu schwammig und offen formuliert
@@ -59,15 +58,16 @@ A L E X
 ##### Vorratsdatenspeicherung
 * erfüllt die Vorratsdatenspeicherung in ihrer aktuellen Form noch den ursprünglichen Zweck? Expertenrunde notwendig.
 
+###### Ausarbeitung: `mocola`
 ##### "Internet-Minister"
-* wird drüber Diskutiert...
+* wird noch drüber diskutiert...
 
 ##### Youtuber in Deutschland
 * Expertenrunde notwendig
 ###### Ausarbeitung: `Zhorky`
 #### Wahl des AG-Leiters
 * Axel hat sich ohne Gegenvorschläge zur Wahl aufgestellt.
-* Es gab keine Einwände für die Wahl von Alex als Leiter.
+* Es gab keine Einwände für die Wahl von Axel als Leiter.
 ***
 ## Anhang
 ![Umfrage](https://puu.sh/wXMhO/e86661ad16.png)
