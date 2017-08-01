@@ -13,5 +13,5 @@ In der Gruppe wird der Link zur Terminumfrage bekanntgegeben.
 
 
 ## Meetings
-* [**Planung**] xx.08.2017 / [Meeting #2 - Thema offen](https://github.com/arpr/UNP-AG-12/blob/master/Meetings%20-%20Protokolle/2017-07-xx_20-00_Meeting-2_Thema.md)
+* [**Planung**] xx.08.2017 / [Meeting #2 - Thema offen](https://github.com/arpr/UNP-AG-12/blob/master/Meetings%20-%20Protokolle/2017-08-xx_20-00_Meeting-2_Thema.md)
 * [**Stattgefunden**] 31.07.2017 / [Meeting #1 - Brainstorming](https://github.com/arpr/UNP-AG-12/blob/master/Meetings%20-%20Protokolle/2017-07-31_20-00_Meeting-1_Brainstorming.md)
