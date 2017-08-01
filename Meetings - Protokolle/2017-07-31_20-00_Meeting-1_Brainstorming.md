@@ -1,7 +1,7 @@
 ![Logo](https://puu.sh/wY2s6/9b24dd1062.png)
 # AG 12 - Meeting #1
-Durch die Terminumfrage auf Doodle `Link ist im Discordkanal`, 
-hat sich ergeben dass wir uns Heute am 31.07 um 20:00 im Discord einfinden sollen.
+Durch die Terminumfrage auf Doodle `https://beta.doodle.com/poll/t6wu58afe75shuhq`, 
+hat sich ergeben dass wir uns am 31.07.2017 um 20:00 im Discord einfinden sollen.
 
 ## Teilnehmer
 
