@@ -21,20 +21,22 @@ ExNought
 1. Definierung der Arbeitsweise der AG
 1. Besprechung der aktuellen Programmpunkte
 1. Besprechung der Programmpunkte aus dem Github
-1. Brainstorming -> Übernahme der Vorschläge ins Github Issue-Board zur weiteren Diskussion und Ausarbeitung
+1. Brainstorming ~ ~-> Übernahme der Vorschläge ins Github Issue-Board zur weiteren Diskussion und Ausarbeitung~ ~
 
 ***
 ## Ergebnisse
 
 #### 2. Definierung der Arbeitsweise der AG
-* Github wird das primäre Kommunikationswerkzeug.
-* In den Issue-Bereich können wir über relevante Themen reden und Programminhalte abstimmen.
+* ~ ~Github wird das primäre Kommunikationswerkzeug.~ ~
+* ~ ~In den Issue-Bereich können wir über relevante Themen reden und Programminhalte abstimmen.~ ~
 * Bei der Ausarbeitung von Programmtexten untersützen wir uns gegenseitig.
 
 *  Terminvereinbarung treffen wir mit dem Tool [Doodle](http://doodle.com).
-*  [Telegram](https://telegram.org/) wird für interne Kommunikation genutzt.
-   In der Telegramgruppe wird zudem der Link zur Terminabstimmung bekanntgegeben.
+*  ~ ~[Telegram](https://telegram.org/) wird für interne Kommunikation genutzt.
+   In der Telegramgruppe wird zudem der Link zur Terminabstimmung bekanntgegeben.~ ~
    
+* **Update**: Die einzelnen Programmpunkte werden bei den Meetings zusammen besprochen. Telegram und das Github Issue Board entfallen.
+
 #### 3. Besprechung der aktuellen Programmpunkte
 ##### Netzneutralität
 * Der Begriff ist zu Allumfassend und sollte weiter aufgegliedert werden:
