@@ -11,7 +11,7 @@ Gruppenleiter: Axel
 
 
 ## Meetings
-* [**Planung**] 02.09.2017 20:00 / [Meeting #4 - Vorratsdatenspeicherung](https://github.com/arpr/UNP-AG-12/blob/master/Meetings%20-%20Protokolle/2017-09-02_20-00_Meeting-4_Vorratsdatenspeicherung.md)
+* [**Stattgefunden**] 02.09.2017 20:00 / [Meeting #4 - Vorratsdatenspeicherung](https://github.com/arpr/UNP-AG-12/blob/master/Meetings%20-%20Protokolle/2017-09-02_20-00_Meeting-4_Vorratsdatenspeicherung.md)
 * [**Stattgefunden**] 26.08.2017 20:00 / [Meeting #3 - Bundestrojaner - elektronischer Personalausweis](https://github.com/arpr/UNP-AG-12/blob/master/Meetings%20-%20Protokolle/2017-08-26_20-00_Meeting-3_Bundestrojaner_elektronischer-Personalausweis.md)
 * [**Stattgefunden**] 14.08.2017 20:00 / [Meeting #2 - Netzneutralität](https://github.com/arpr/UNP-AG-12/blob/master/Meetings%20-%20Protokolle/2017-08-14_20-00_Meeting-2_Netzneutralität.md)
 * [**Stattgefunden**] 31.07.2017 20:00 / [Meeting #1 - Brainstorming](https://github.com/arpr/UNP-AG-12/blob/master/Meetings%20-%20Protokolle/2017-07-31_20-00_Meeting-1_Brainstorming.md)
